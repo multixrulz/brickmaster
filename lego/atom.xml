@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Lego Creations</title>
+<id>http://joshua.henley.id.au/lego/atom.xml</id>
+<updated>2016-05-15T14:00:00Z</updated>
+<entry>
+<link href="http://joshua.henley.id.au/lego/2016/0516.html"/>
+<title>Prison Mech</title>
+<summary>None</summary>
+<updated>2016-05-15T14:00:00Z</updated>
+</entry>
+<entry>
+<link href="http://joshua.henley.id.au/lego/2016/0424.html"/>
+<title>Ricochet and Wasp vs. the Giant Space Bug</title>
+<summary>None</summary>
+<updated>2016-04-23T14:00:00Z</updated>
+</entry>
+<entry>
+<link href="http://joshua.henley.id.au/lego/2016/0403.html"/>
+<title>Tanks!</title>
+<summary>None</summary>
+<updated>2016-04-02T13:00:00Z</updated>
+</entry>
+<entry>
+<link href="http://joshua.henley.id.au/lego/2015/09/03.html"/>
+<title>Galaxy Squad Mobile Laboratory</title>
+<summary>None</summary>
+<updated>2015-09-02T14:00:00Z</updated>
+</entry>
+<entry>
+<link href="http://joshua.henley.id.au/lego/2015/08/11.html"/>
+<title>Scuba Nindroid</title>
+<summary>None</summary>
+<updated>2015-08-10T14:00:00Z</updated>
+</entry>
+</feed>
